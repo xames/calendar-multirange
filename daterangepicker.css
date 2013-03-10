@@ -2,10 +2,13 @@
   max-width: none;
 }
 
-
-
-.daterangepicker .ranges, .daterangepicker .calendar{
+.daterangepicker .ranges{
   float: left;
+  margin: 2px;
+}
+
+.daterangepicker .calendar{
+  float: right;
   margin: 2px;
 }
 

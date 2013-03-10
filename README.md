@@ -4,6 +4,11 @@
 
 https://github.com/dangrossman/bootstrap-daterangepicker
 
+## Multi date range selection
+
+![SingleRange]()
+![MultiRange1]()
+![MultiRange2]()
 
 ## Usage
 
